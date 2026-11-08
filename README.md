@@ -1,0 +1,1 @@
+This repository contains my MongoDB learning journey and practical exercises. I created this repository to understand MongoDB concepts, database operations, and how to work with MongoDB using MongoDB Shell and Node.js.
